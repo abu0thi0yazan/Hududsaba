@@ -1,3 +1,7 @@
+git add database.sql
+git commit -m "إضافة بنية قاعدة بيانات منصة هدهد سبأ"
+git push origin main
+abu0thi0yazan
 -- HUDHUD SABA
 -- المرحلة الأولى: تأسيس قاعدة البيانات
 -- متوافق مع Supabase PostgreSQL
